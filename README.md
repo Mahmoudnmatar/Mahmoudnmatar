@@ -1,6 +1,6 @@
 [![MasterHead ](https://img.freepik.com/free-photo/representations-user-experience-interface-design_23-2150104504.jpg?w=826&t=st=1694358904~exp=1694359504~hmac=7486d42af59eaaa33e7f21c507bd12c780654b99c47abdd9d04118ef3739ca8c)]
 <h1 align="center">Hi 👋, I'm Mahmoud Nabil Matar</h1>
-<h3 align="center">A Humble Mobile developer from Palestain</h3>
+<h3 align="center"> I Am junior Mobile developer from Palestain</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
